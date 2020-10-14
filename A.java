@@ -12,6 +12,7 @@ public class A
 
     public void somebodyHelpMe()
     {
+        int y=0;
         
     }
 }

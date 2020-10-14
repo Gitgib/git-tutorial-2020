@@ -2,8 +2,14 @@ public class A
 {
     private int x;
     private int y;
-    
-    //methods
+  
+        //methods
+    public void doIt()
+    {
+        
+    }
+}
+
     public void somebodyHelpMe()
     {
         

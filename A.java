@@ -6,7 +6,7 @@ public class A
         //methods
     public void doIt()
     {
-        
+        int x=0;
     }
 }
 
